@@ -1,0 +1,11 @@
+*.qcow2
+*.img
+*.vhd
+*.vdi
+*.ISO
+*.iso
+*.BIN
+*.bin
+holycoin_share/
+TEST.HC
+__pycache__/
