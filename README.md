@@ -33,8 +33,8 @@
 
 ## Architecture
 
-- **`HOLYCOIN.HC` (Stage 1 ? Offline Sanctuary Engine):** Pure HolyC FIPS 180-4 `SHA-256` & Bitcoin `SHA-256d`, Satoshi's 2009 Genesis Block verifier (`nonce = 2083236893`), Ring-0 PoW miner, deterministic `god.words[]` Oracle Seal, and contiguous RedSea (`B:/HOLYCOIN.BIN`) persistence.
-- **`HOLYUART.HC` (Stage 2A ? `0x3F8` 16550 UART Block Driver):** Direct Ring-0 `InU8(0x3F8)` / `OutU8(0x3F8)` hardware serial transceiver with 84-byte `"HC01"` sliding-window frame recovery for zero-driver P2P header sync.
+- **`HOLYCOIN.HC` (Stage 1  Offline Sanctuary Engine):** Pure HolyC FIPS 180-4 `SHA-256` & Bitcoin `SHA-256d`, Satoshi's 2009 Genesis Block verifier (`nonce = 2083236893`), Ring-0 PoW miner, deterministic `god.words[]` Oracle Seal, and contiguous RedSea (`B:/HOLYCOIN.BIN`) persistence.
+- **`HOLYUART.HC` (Stage 2 `0x3F8` 16550 UART Block Driver):** Direct Ring-0 `InU8(0x3F8)` / `OutU8(0x3F8)` hardware serial transceiver with 84-byte `"HC01"` sliding-window frame recovery for zero-driver P2P header sync.
 - **`Pull.HC` & `push.py`:** 23-line lockstep `0x3F8` source loader for beaming `.HC` files into live QEMU sessions.
 
 ## Verified Deterministic Chain Vectors
