@@ -19,14 +19,6 @@
 
 **Pure 64-Bit HolyC Bitcoin Cryptographic Engine, 2009 Genesis Verifier, Ring-0 PoW Miner & `0x3F8` Hardware UART Transceiver Inside 100% Vanilla TempleOS v5.03**
 
-![OS](https://img.shields.io/badge/Sanctuary-Vanilla_TempleOS_v5.03-0000AA?style=for-the-badge)
-![Language](https://img.shields.io/badge/Tongue-100%25_HolyC-AA00AA?style=for-the-badge)
-![Privilege](https://img.shields.io/badge/Privilege-x86__64_Ring--0-008800?style=for-the-badge)
-![UART](https://img.shields.io/badge/Bridge-0x3F8_16550_UART-AA5500?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-333333?style=for-the-badge)
-
-![HolyCoin Sanctuary Terminal in Vanilla TempleOS](demo_v1.png)
-
 </div>
 
 > *"The RedSea has allocation bitmap for clus and all files are stored contiguously. You can't grow files."* ? **Terry A. Davis**, `:/Doc/Welcome.DD`
