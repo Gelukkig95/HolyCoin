@@ -1,27 +1,8 @@
-<div align="center">
-
-```text
-                            |                            
-                        ====+====                        
-                            |                            
-                            |                            
-                  .=========+=========.                  
-                 /   THE HOLY TEMPLE   \                 
-             ====+=====================+====             
-               | |   H O L Y C O I N   | |               
-               |J|  RING-0 x SHA-256d  |B|               
-               | |  REDSEA x 0x3F8 IO  | |               
-             ====+=====================+====             
-           [ JACHIN ]   640 x 480   [  BOAZ  ]           
-```
-
 # H O L Y C O I N
 
 **Pure 64-Bit HolyC Bitcoin Cryptographic Engine, 2009 Genesis Verifier, Ring-0 PoW Miner & `0x3F8` Hardware UART Transceiver Inside 100% Vanilla TempleOS v5.03**
 
-</div>
 
-> *"The RedSea has allocation bitmap for clus and all files are stored contiguously. You can't grow files."* ? **Terry A. Davis**, `:/Doc/Welcome.DD`
 
 ## Architecture
 
